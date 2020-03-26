@@ -3,3 +3,4 @@ honda
 lexes Gx
 
 Tesla
+Subaru
