@@ -150,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585183602090</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Merge branch 'master' of https://github.com/xiamuxinuer/NewGitPractice&#10;&#10;# Conflicts:&#10;#&#9;cars.txt&#10;#&#9;fruit.txt">
+      <created>1585183758848</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1585183758848</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
