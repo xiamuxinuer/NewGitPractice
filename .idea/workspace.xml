@@ -171,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585184733956</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="cars">
+      <created>1585186375435</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1585186375435</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -204,6 +211,7 @@
     <MESSAGE value="fruit file added" />
     <MESSAGE value="Merge branch 'master' of https://github.com/xiamuxinuer/NewGitPractice&#10;&#10;# Conflicts:&#10;#&#9;cars.txt&#10;#&#9;fruit.txt" />
     <MESSAGE value="blueberry" />
-    <option name="LAST_COMMIT_MESSAGE" value="blueberry" />
+    <MESSAGE value="cars" />
+    <option name="LAST_COMMIT_MESSAGE" value="cars" />
   </component>
 </project>
