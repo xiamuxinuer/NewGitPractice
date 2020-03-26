@@ -1,7 +1,2 @@
 orange
-mango
-apple
-watermelon 
-banana
-cucumber
-potato
+
