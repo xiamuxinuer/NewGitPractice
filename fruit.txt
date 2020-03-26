@@ -2,4 +2,6 @@ orange
 pear
 apple
 lemon
+strawberry
 watermelon
+blueberry
