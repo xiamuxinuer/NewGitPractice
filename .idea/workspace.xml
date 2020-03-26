@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="183c2b99-9b99-441e-872c-8f266262a69c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fruit.txt" afterDir="false" />
+    <list default="true" id="183c2b99-9b99-441e-872c-8f266262a69c" name="Default Changelist" comment="fruit file added">
+      <change beforePath="$PROJECT_DIR$/fruit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fruit.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585181640056</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fruit file added">
+      <created>1585181777945</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585181777945</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +137,7 @@
     <MESSAGE value="hello world added" />
     <MESSAGE value="more colors add" />
     <MESSAGE value="car added" />
-    <option name="LAST_COMMIT_MESSAGE" value="car added" />
+    <MESSAGE value="fruit file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="fruit file added" />
   </component>
 </project>
