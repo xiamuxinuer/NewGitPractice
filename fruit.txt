@@ -1,4 +1,4 @@
 orange
 mango
-banana
-avocado
+apple
+watermelon 
