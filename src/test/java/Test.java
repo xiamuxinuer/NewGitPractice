@@ -4,6 +4,7 @@ public class Test {
 // add some commit here
 
         System.out.println(" hello world");
+        System.out.println("hello");
 
 
         
