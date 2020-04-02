@@ -30,6 +30,7 @@
   <component name="ProjectId" id="1Z2XNNATzB3WWR0W0TDtDwQLPTi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,6 +44,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunManager">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -233,6 +235,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="603" y="110" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585784881860" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1585788687716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585788687716" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585784883791">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
