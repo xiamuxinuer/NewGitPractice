@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="183c2b99-9b99-441e-872c-8f266262a69c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/movies" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +31,7 @@
   <component name="ProjectId" id="1Z2XNNATzB3WWR0W0TDtDwQLPTi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,6 +45,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunManager">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -225,6 +228,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="cars" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="726" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585792192262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="726" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585792192262" />
     <state x="811" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585784839396">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -233,6 +240,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="603" y="110" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585784881860" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1585788687716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585788687716" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585784883791">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
